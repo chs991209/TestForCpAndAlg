@@ -67,7 +67,7 @@ build/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
-
+.idea/**
 ### macOS template
 # General
 .DS_Store
